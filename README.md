@@ -66,9 +66,9 @@ sudo python3 main.py --iface en0 --gateway-ip 192.168.0.1 --gateway-mac c8:3a:35
 
 ## 👤 Author / Автор
 
-**Artem Grachev**
-Python/Golang Developer | ML & DevOps Enthusiast
-🇷🇺 Telegram: [@Artemy\_Develop](https://t.me/Artemy_Develop)
+**Artem Grachev**<br>
+Python/Golang Developer | ML & DevOps Enthusiast<br>
+🇷🇺 Telegram: [@Artemy\_Develop](https://t.me/Artemy_Develop)<br>
 🌐 GitHub: [Artemy-dev](https://github.com/Artemy-dev)
 
 ---
