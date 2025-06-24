@@ -85,8 +85,3 @@ Python/Golang Developer | ML & DevOps Enthusiast
 * simulate arp spoofing
 * ethical hacking tools
 * python network test
-
----
-
-[![Stars](https://img.shields.io/github/stars/Artemy-dev/Wi-Fi-Jammer?style=social)](https://github.com/Artemy-dev/Wi-Fi-Jammer/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/Artemy-dev/Wi-Fi-Jammer)](https://github.com/Artemy-dev/Wi-Fi-Jammer)
