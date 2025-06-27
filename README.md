@@ -30,8 +30,8 @@ This tool was created for educational and audit purposes — to demonstrate how 
 ## 🚀 Installation / Установка
 
 ```bash
-git clone https://github.com/Artemy-dev/Wi-Fi-Jammer.git
-cd Wi-Fi-Jammer
+git clone https://github.com/Artemy-dev/ARPFloodTool.git
+cd ARPFloodTool
 pip install scapy
 ````
 
