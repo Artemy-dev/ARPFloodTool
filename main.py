@@ -5,13 +5,20 @@ import time
 
 def print_banner():
     banner = r"""
- __        ___  _   _ _____ _____ _   _  _____ 
- \ \      / / || | | |_   _| ____| \ | |/ ____|
-  \ \ /\ / /| || |_| | | | |  _| |  \| | |  _  
-   \ V  V / |__   _| | | | | |___| |\  | |_| | 
-    \_/\_/     |_| |_| |_| |_____|_| \_|\____|  
-      Wi-Fi Jammer  —  ARP Flood Tool 🚀
-        github.com/Artemy-dev | by @Artemy_Develop
+         _    _ ___________ _____         
+        | |  | |_   _|  ___|_   _|        
+        | |  | | | | | |_    | |          
+        | |/\| | | | |  _|   | |          
+        \  /\  /_| |_| |    _| |_         
+         \/  \/ \___/\_|    \___/         
+       ___  ___  ___  ___ ___________ 
+      |_  |/ _ \ |  \/  ||  ___| ___ \
+        | / /_\ \| .  . || |__ | |_/ /
+        | |  _  || |\/| ||  __||    / 
+    /\__/ / | | || |  | || |___| |\ \ 
+    \____/\_| |_/\_|  |_/\____/\_| \_|
+     Wi-Fi Jammer  —  ARP Flood Tool 🚀
+github.com/Artemy-dev | by @Artemy_Develop
     """
     print(banner)
 
@@ -45,7 +52,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-"""
-sudo python3 main.py --iface en0 --gateway-ip 192.168.0.1 --gateway-mac c8:3a:35:28:3e:78
-"""
